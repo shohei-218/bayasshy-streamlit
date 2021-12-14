@@ -4,8 +4,10 @@ import streamlit as st
 #import pandas as pd
 from PIL import Image
 import time
+import
 
-st.title('Streamlit 超入門')
+
+st.title('バヤッシーのStreamlit 超入門')
 
 st.write('interactive Widgets')
 
