@@ -1,4 +1,3 @@
+opencv-python-headless==4.5.4.60
 streamlit==1.2.0
-numpy
-keras
-tensorflows
+streamlit_webrtc==0.32.0
