@@ -3,8 +3,8 @@ from streamlit_webrtc import webrtc_streamer
 import av
 import cv2
 
-st.title("My first Streamlit app")
-st.write("Hello, world")
+st.title("bayasshyの勉強部屋")
+st.write("Streamlit使っていろんなツールとか描画の実験していきます")
 
 
 class VideoProcessor:
